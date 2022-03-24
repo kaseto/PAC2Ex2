@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.uoc.pac2.CarTest" tests="16" skipped="0" failures="0" errors="0" timestamp="2022-03-24T16:37:35" hostname="DESKTOP-4PRU4B2" time="0.056">
+  <properties/>
+  <testcase name="testCarDefault()" classname="edu.uoc.pac2.CarTest" time="0.028"/>
+  <testcase name="testCar()" classname="edu.uoc.pac2.CarTest" time="0.001"/>
+  <testcase name="testGetId()" classname="edu.uoc.pac2.CarTest" time="0.001"/>
+  <testcase name="testGetMake()" classname="edu.uoc.pac2.CarTest" time="0.002"/>
+  <testcase name="testSetMake()" classname="edu.uoc.pac2.CarTest" time="0.001"/>
+  <testcase name="testSetMakeException()" classname="edu.uoc.pac2.CarTest" time="0.003"/>
+  <testcase name="testGetModel()" classname="edu.uoc.pac2.CarTest" time="0.001"/>
+  <testcase name="testSetModel()" classname="edu.uoc.pac2.CarTest" time="0.001"/>
+  <testcase name="testSetModelException()" classname="edu.uoc.pac2.CarTest" time="0.001"/>
+  <testcase name="testGetLicenseYear()" classname="edu.uoc.pac2.CarTest" time="0.0"/>
+  <testcase name="testSetLicenseYear()" classname="edu.uoc.pac2.CarTest" time="0.001"/>
+  <testcase name="testSetLicenseYearException()" classname="edu.uoc.pac2.CarTest" time="0.002"/>
+  <testcase name="testGetFuel()" classname="edu.uoc.pac2.CarTest" time="0.001"/>
+  <testcase name="testSetFuel()" classname="edu.uoc.pac2.CarTest" time="0.001"/>
+  <testcase name="testSetFuelException()" classname="edu.uoc.pac2.CarTest" time="0.003"/>
+  <testcase name="testWarranty()" classname="edu.uoc.pac2.CarTest" time="0.003"/>
+  <system-out><![CDATA[2000
+2010
+2019
+2015
+2020
+2015
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
